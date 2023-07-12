@@ -1,4 +1,11 @@
 # timedPress
+## Archived Repository
+`timedPress` has a greenfield rewrite with a new repository. Check out the replacement at [timed-press](https://github.com/niftinessafoot/timed-press)
+
+This repo is now archived.
+
+---
+
 A JavaScript function for measuring the length of time an element is pressed. Supports both mouse and touch events.
 
 #### Dependencies
